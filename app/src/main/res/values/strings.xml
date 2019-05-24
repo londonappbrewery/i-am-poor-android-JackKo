@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="complaint">I am SOOO POOOR Android Developer Man.. spare some change ?</string>
+    <string name="textview">TextView</string>
 </resources>
